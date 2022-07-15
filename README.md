@@ -1,6 +1,6 @@
 # Hi I'm Bello Olalekan 👋
 ### DevOps | Cloud Engineer 
-![My GitHub Profile image](https://drive.google.com/file/d/1uJLfB4EdilmUAyfAHpRBd-4RCdFE9QVG/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1uJLfB4EdilmUAyfAHpRBd-4RCdFE9QVG/view?usp=sharing" alt="Profle Header">
 <!--
 **bello-olalekan/bello-olalekan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
