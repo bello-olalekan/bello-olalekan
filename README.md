@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - 📫 You may reach me on [Twitter](https://www.twitter.com/olalekanQBello) and [LinkedIn](https://www.linkedin.com/in/bello-olalekan).
 - ⚡ Fun fact: ...
 
-
-https://user-images.githubusercontent.com/51878265/169812709-887c41a7-d056-46a0-b7a6-7a184c403a22.png
