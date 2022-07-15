@@ -1,6 +1,6 @@
 # Hi I'm Bello Olalekan 👋
 ### DevOps | Cloud Engineer 
-!https://www.canva.com/design/DAFGejN6qcM/wpYqWQTGnmRiXwbeKO0rzQ/edit?utm_content=DAFGejN6qcM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFGejN6qcM/wpYqWQTGnmRiXwbeKO0rzQ/edit?utm_content=DAFGejN6qcM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <!--
 **bello-olalekan/bello-olalekan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
