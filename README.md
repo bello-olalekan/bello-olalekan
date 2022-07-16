@@ -1,4 +1,4 @@
-[![Github Banner - Bello Olalekan](https://drive.google.com/file/d/1hX7EnaWonqn7G5CqZwDx_uTsF8k6EEKg/view?usp=sharing)]
+![Github Banner - Bello Olalekan](https://repository-images.githubusercontent.com/514192041/a976ec68-28cb-4a11-a9d0-e74e967717c3)
 
 # Hi I'm Bello Olalekan 👋
 ### DevOps | Cloud Engineer 
