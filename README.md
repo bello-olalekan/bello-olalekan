@@ -1,7 +1,6 @@
-
+![Github Banner - Bello Olalekan](https://repository-images.githubusercontent.com/514192041/3916b518-813f-4db1-92ad-b8b7f5a07f5f)
 # Hi I'm Bello Olalekan 👋
 ### DevOps | Cloud Engineer
-![Github Banner - Bello Olalekan](https://repository-images.githubusercontent.com/514192041/a976ec68-28cb-4a11-a9d0-e74e967717c3)
 <!--
 **bello-olalekan/bello-olalekan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
