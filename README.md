@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img alt="HTML5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="HTML5" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white"/>
   
 </p>
 
