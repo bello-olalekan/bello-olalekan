@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <img alt="HTML5" src="https://img.shields.io/badge/Ansible-007ACC?style=for-the-badge&logo=ansible&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/Amazon AWS-007ACC?style=for-the-badge&logo=aws&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/Terraform-007ACC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/Jenkins-FCC624?style=for-the-badge&logo=jenkins&logoColor=black"/>
+<img alt="HTML5" src="https://img.shields.io/badge/MySql-FCC624?style=for-the-badge&logo=mysql&logoColor=black"/>
   
 </p>
 
