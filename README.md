@@ -2,6 +2,7 @@
 
 <p align="center">
 <img alt="HTML5" src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 # Hi I'm Bello Olalekan 👋
 ### DevOps | Cloud Engineer
 <!--
