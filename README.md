@@ -1,5 +1,5 @@
-![Github Banner - Bello Olalekan](https://repository-images.githubusercontent.com/514192041/3916b518-813f-4db1-92ad-b8b7f5a07f5f)
 
+![Github Banner - Bello Olalekan](https://repository-images.githubusercontent.com/514192041/3916b518-813f-4db1-92ad-b8b7f5a07f5f)
 
 # Hi I'm Bello Olalekan 👋
 ### DevOps | Cloud Engineer
@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  
 </p>
 
 - 🌱 I’m currently learning terraform, Kubernetes and other IaC tools
