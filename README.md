@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 - 📫 You may reach me on [Twitter](https://www.twitter.com/olalekanQBello) and [LinkedIn](https://www.linkedin.com/in/bello-olalekan).
 - ⚡ Fun fact: ...
 
+[![@lekandev01's Holopin board](https://holopin.me/lekandev01)](https://holopin.io/@lekandev01)
+
 <img 
    src="https://github-readme-stats.vercel.app/api?username=bello-olalekan&show_icons=true&theme=tokyonight" 
 />
