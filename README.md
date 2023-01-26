@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <img alt="HTML5" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
 
-- 🌱 I’m currently learning Kubernetes and DevOps tools
+- 🌱 I’m currently learning DevOps and Cloud Native tools
 - 👯 I’m looking to collaborate on open source projects
-- 💬 I love sports and fitness
+- 💬 I love sports
 - 📫 You may reach me on [Twitter](https://www.twitter.com/olalekanQBello) and [LinkedIn](https://www.linkedin.com/in/bello-olalekan).
 - ⚡ Fun fact: ...
 
